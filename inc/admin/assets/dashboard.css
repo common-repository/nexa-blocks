@@ -1,0 +1,16 @@
+.title {
+    position: relative;
+}
+
+span.beta {
+    font-size: 10px;
+    background: #2e62ff;
+    color: #fff;
+    display: inline-block;
+    padding: 6px 10px;
+    line-height: 1;
+    border-radius: 10px;
+    text-transform: capitalize;
+    position: absolute;
+    margin-left: 5px;
+}

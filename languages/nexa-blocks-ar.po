@@ -1,0 +1,2493 @@
+# Copyright (C) 2024 NexaBlocks
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Nexa Blocks 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nexa-blocks\n"
+"Last-Translator: \n"
+"Language-Team: العربية\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-10-01T14:38:09+00:00\n"
+"PO-Revision-Date: 2024-10-05 12:20+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: nexa-blocks\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2"
+
+#: build/blocks/slider/index.js:1
+msgid " Speed (ms)"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "100"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "200"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "300"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "400"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "500"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "600"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "700"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "800"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "900"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "AA"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Aa"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "aa"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Absolute"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1
+msgid "Accordion"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+msgid "Accordion Content"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+msgid "Accordion content.."
+msgstr ""
+
+#: build/blocks/image-accordion-item/index.js:1
+msgid "Accordion Image"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+msgid "Accordion Tilte"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+msgid "Accordion title"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+msgid "Accordion title.."
+msgstr ""
+
+#: build/blocks/image-accordion/index.js:1 build/blocks/slider/index.js:1
+msgid "Active"
+msgstr ""
+
+#: build/blocks/accordion/index.js:1
+msgid "Active Accordion"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Active All"
+msgstr "تنشيط  الكل"
+
+#: build/modules/index.js:1
+msgid "Add a custom ID to the wrapper."
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Add Button Label"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Add Description"
+msgstr ""
+
+#: build/blocks/accordion/index.js:1 build/blocks/image-accordion/index.js:1
+msgid "Add Item"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Add Marker Info"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Add multiple class(es) with enter pressing."
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Add New"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Add New Tab"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Add nofollow rel"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Add Slide"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Add Social Icon"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Add sponsored rel"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Add Sub Title"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Add Title"
+msgstr "إضافة عنوان"
+
+#: build/modules/index.js:1
+msgid "Advanced"
+msgstr "متقدم"
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Advanced heading.."
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Afrikaans"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Albanian"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Align Items"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+msgid "Alignment"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "All blocks are activated successfully."
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "All blocks are deactivated successfully."
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "All modules are activated successfully."
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "All modules are inactivated successfully."
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Amharic"
+msgstr ""
+
+#: inc/admin/classes/dashboard.php:50 build/admin/index.js:1
+msgid "API Key"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "API Settings"
+msgstr "إعدادات"
+
+#: build/admin/index.js:1
+msgid "APIs Settings"
+msgstr "إعدادات"
+
+#: build/blocks/google-map/index.js:1
+msgid "Arabic"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Armenian"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Attachment"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Auto"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "auto"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Autoplay"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Autoplay Delay (ms)"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Azerbaijani"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+#: build/modules/index.js:1
+msgid "Background"
+msgstr "خلفية"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: build/blocks/google-map/index.js:1
+msgid "Basque"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Belarusian"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Bengali"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Blob"
+msgstr ""
+
+#: build/blocks/slide-item/block.json
+msgctxt "block description"
+msgid "Act as a slide item for the slider block."
+msgstr ""
+
+#: build/blocks/accordion-item/block.json
+msgctxt "block description"
+msgid "Acts as a single item in an accordion block."
+msgstr ""
+
+#: build/blocks/image-accordion-item/block.json
+msgctxt "block description"
+msgid "Acts as a single item in an image accordion block."
+msgstr ""
+
+#: build/blocks/button/block.json
+msgctxt "block description"
+msgid "Add buttons to redirect user to different webpages"
+msgstr ""
+
+#: build/blocks/advanced-heading/block.json
+msgctxt "block description"
+msgid "Advanced Heading block for Gutenberg"
+msgstr ""
+
+#: build/blocks/container/block.json
+msgctxt "block description"
+msgid "Container block for wrapping other blocks"
+msgstr ""
+
+#: build/blocks/image-accordion/block.json
+msgctxt "block description"
+msgid "Display a series of images in an accordion format."
+msgstr ""
+
+#: build/blocks/tabs/block.json
+msgctxt "block description"
+msgid "Display content in tabs"
+msgstr ""
+
+#: build/blocks/social-icons/block.json
+msgctxt "block description"
+msgid "Display differnt social icons"
+msgstr ""
+
+#: build/blocks/social-share/block.json
+msgctxt "block description"
+msgid "Display differnt social share buttons"
+msgstr ""
+
+#: build/blocks/google-map/block.json
+msgctxt "block description"
+msgid "Embed Google Map"
+msgstr ""
+
+#: build/blocks/slider/block.json
+msgctxt "block description"
+msgid "Show content in sliding mode."
+msgstr ""
+
+#: build/blocks/accordion/block.json
+msgctxt "block description"
+msgid "Show FAQs or any other content in an accordion style."
+msgstr ""
+
+#: build/blocks/icon-box/block.json
+msgctxt "block description"
+msgid "Showcase services or features with an icon box."
+msgstr "لاظهار معلومات الخدمات"
+
+#: build/blocks/tab/block.json
+msgctxt "block description"
+msgid "Single tab for Tabs block"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Block status updated successfully."
+msgstr ""
+
+#: build/blocks/accordion/block.json
+msgctxt "block title"
+msgid "Accordion"
+msgstr ""
+
+#: build/blocks/accordion-item/block.json
+msgctxt "block title"
+msgid "Accordion Item"
+msgstr ""
+
+#: build/blocks/advanced-heading/block.json
+msgctxt "block title"
+msgid "Advanced Heading"
+msgstr ""
+
+#: build/blocks/button/block.json
+msgctxt "block title"
+msgid "Button"
+msgstr ""
+
+#: build/blocks/container/block.json
+msgctxt "block title"
+msgid "Container"
+msgstr ""
+
+#: build/blocks/google-map/block.json
+msgctxt "block title"
+msgid "Google Map"
+msgstr ""
+
+#: build/blocks/icon-box/block.json
+msgctxt "block title"
+msgid "Icon Box"
+msgstr "صندوق بأيقونة"
+
+#: build/blocks/image-accordion/block.json
+msgctxt "block title"
+msgid "Image Accordion"
+msgstr ""
+
+#: build/blocks/image-accordion-item/block.json
+msgctxt "block title"
+msgid "Image Accordion Item"
+msgstr ""
+
+#: build/blocks/slide-item/block.json
+msgctxt "block title"
+msgid "Slide Item"
+msgstr ""
+
+#: build/blocks/slider/block.json
+msgctxt "block title"
+msgid "Slider"
+msgstr ""
+
+#: build/blocks/social-icons/block.json
+msgctxt "block title"
+msgid "Social Icons"
+msgstr ""
+
+#: build/blocks/social-share/block.json
+msgctxt "block title"
+msgid "Social Share"
+msgstr ""
+
+#: build/blocks/tab/block.json
+msgctxt "block title"
+msgid "Tab"
+msgstr ""
+
+#: build/blocks/tabs/block.json
+msgctxt "block title"
+msgid "Tabs"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Blocks"
+msgstr "كتل"
+
+#: build/blocks/social-share/index.js:1
+msgid "Blogger"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Blur"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+#: build/modules/index.js:1
+msgid "Border"
+msgstr "إطار"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Border Color"
+msgstr "لون الإطار"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Border Colors"
+msgstr "ألوان الإطار"
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/google-map/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+#: build/modules/index.js:1
+msgid "Border Radius"
+msgstr "زوايا الإطار"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Border Style"
+msgstr "تنسيق الإطار"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Border Width"
+msgstr "عرض الإطار"
+
+#: build/blocks/google-map/index.js:1
+msgid "Bosnian"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Bottom"
+msgstr "أسفل"
+
+#: build/blocks/slider/index.js:1
+msgid "Bottom Center"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Bottom Left"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Bottom Right"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Box Icon"
+msgstr "صندوق ايقوني"
+
+#: build/blocks/icon-box/index.js:1
+msgid "Box Link"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+#: build/modules/index.js:1
+msgid "Box Shadow"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Buffer"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Bulgarian"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Bullets"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Burmese"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1
+msgid "Button"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Button Icon"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Button Label"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/slide-item/index.js:1 build/blocks/tabs/index.js:1
+msgid "button label.."
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Button Link"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Catalan"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/container/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Center"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Center Bottom"
+msgstr ""
+
+#: build/blocks/slider/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Center Center"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Center Left"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Center Right"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Center Top"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Change Logs"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Chinese"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Choose Container Layout"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Circle"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Classic"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Click here"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Close"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/google-map/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Color"
+msgstr ""
+
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Color Type"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+msgid "Colors"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Colors Palette"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Column"
+msgstr ""
+
+#: build/blocks/container/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1
+msgid "Column Gap"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Column Reverse"
+msgstr ""
+
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Columns Number"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Contain"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "contain"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Container Size"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Container Width"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/button/index.js:1 build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slider/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Content"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Content Alignment"
+msgstr "التوازي"
+
+#: build/blocks/container/index.js:1
+msgid "Content Width"
+msgstr ""
+
+#: build/global/index.js:1
+msgid "Copy the selected block(s)."
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Cover"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "cover"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Create a Support Ticket"
+msgstr "افتح تذكرة دعم"
+
+#: build/blocks/google-map/index.js:1
+msgid "Croatian"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1
+msgid "Custom"
+msgstr "مخصص"
+
+#: build/modules/index.js:1
+msgid "Custom Attributes"
+msgstr "سمات مخصصة"
+
+#: build/modules/index.js:1
+msgid "Custom Classes"
+msgstr "كلاس مخصص css"
+
+#: inc/modules/modules.php:15
+msgid "Custom CSS"
+msgstr "تنسيق مخصص"
+
+#: build/blocks/google-map/index.js:1
+msgid "Czech"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Danish"
+msgstr ""
+
+#: inc/admin/classes/dashboard.php:108 inc/admin/classes/dashboard.php:109
+msgid "Dashboard"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Dashed"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Deactive All"
+msgstr "تعطيل الكل"
+
+#: build/blocks/google-map/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Default"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Delete"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Demo Insert"
+msgstr "تحميل القالب"
+
+#: build/blocks/advanced-heading/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/slide-item/index.js:1 build/blocks/slider/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Description"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/slide-item/index.js:1
+msgid "description.."
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Desktop"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Diaspora"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Div"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Documentation"
+msgstr "تعليمات الاستخدام"
+
+#: build/blocks/slider/index.js:1
+msgid "Dots"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Dotted"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Double"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Dutch"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Effect"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Effects only work at the frontend preview"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Email"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Enable Overlay"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "English"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Enjoying Nexa Blocks? Leave us a review on WordPress.org."
+msgstr "لو عجبتك نكسا متنساش تدعمنا بتقييمك الكريم"
+
+#: build/blocks/icon-box/index.js:1
+msgid "Enter description here"
+msgstr ""
+
+#: inc/admin/classes/dashboard.php:65
+msgid "Enter your Google Map API Key to enable Google Map Block."
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Enter your Google Maps API key"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Estonian"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Evernote"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Explore Styles"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Facebook"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid ""
+"Fade mode on editor mode only. Item will be hidden on the frontend view."
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Farsi"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Finnish"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Fixed"
+msgstr ""
+
+#: build/blocks/container/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1
+msgid "Flex"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Flex Direction"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Flex End"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Flex Properties"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Flex Start"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Flex Wrap"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Flipboard"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Fly Eye"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Font Family"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Font Size"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Font Style"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Font Weight"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Fraction"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "French"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Full"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Full Screen Control"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Galician"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Gap"
+msgstr ""
+
+#: build/blocks/accordion/index.js:1 build/blocks/advanced-heading/index.js:1
+#: build/blocks/button/index.js:1 build/blocks/google-map/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slider/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1 build/modules/index.js:1
+msgid "General"
+msgstr "عام"
+
+#: build/blocks/google-map/index.js:1
+msgid "Georgian"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "German"
+msgstr ""
+
+#: inc/admin/classes/dashboard.php:68
+msgid "Get a Free API Key"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Get Nexa Blocks Pro"
+msgstr "جرب النسخة المدفوعة بالخصم"
+
+#: build/blocks/google-map/index.js:1
+msgid "Get premade map styles from here: "
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Get Support"
+msgstr "أحصل على الدعم. "
+
+#: inc/admin/classes/dashboard.php:42
+msgid "Google Map"
+msgstr "ovhz' [,[g"
+
+#: build/admin/index.js:1
+msgid "Google Maps API Key"
+msgstr "رمز خرائط جوجل"
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Gradient"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Great!"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Greek"
+msgstr ""
+
+#: build/blocks/container/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1
+msgid "Grid"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Grid Properties"
+msgstr ""
+
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Grid Settings"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Groove"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Gujarati"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "H1"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "H2"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "H3"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "H4"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "H5"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "H6"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Hackernews"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Heading"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "heading.."
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Hebrew"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1 build/blocks/slider/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Height"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Hexagon"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Hidden"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Hide on Desktop"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Hide on Mobile"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Hide on Tablet"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Hindi"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Horizontal"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Hover"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Hover Background"
+msgstr "خلفية أثناء المرور"
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Hover Box Shadow"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/slide-item/index.js:1 build/blocks/slider/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Hover Color"
+msgstr ""
+
+#. Author URI of the plugin
+#: nexa-blocks.php
+msgid "https://www.nexablocks.com"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: nexa-blocks.php
+msgid "https://www.nexablocks.com/"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Hungarian"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Hybrid"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Icelandic"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+msgid "Icon"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Icon Color"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1 build/blocks/slider/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Icon Gap"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Icon Hover Color"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/slide-item/index.js:1 build/blocks/tabs/index.js:1
+msgid "Icon Position"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1 build/blocks/slider/index.js:1
+msgid "Icon Size"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Icon Source"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Icons Library"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Indonesian"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Inset"
+msgstr ""
+
+#: inc/api/api.php:150 inc/api/api.php:187
+msgid "Invalid block name(s) provided."
+msgstr ""
+
+#: inc/api/api.php:135 inc/api/api.php:212
+msgid "Invalid request."
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Italian"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Italic"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1
+msgid "Item"
+msgstr ""
+
+#: build/blocks/image-accordion/index.js:1
+msgid "Items Gap"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Japanese"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Justify Content"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Kannada"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Kazakh"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Khmer"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Korean"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Kyrgyz"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/tabs/index.js:1
+msgid "Label"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Lao"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "latitude"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Latvian"
+msgstr ""
+
+#: build/blocks/container/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1
+msgid "Layout"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Layout Type"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Learn how to use Nexa Blocks with our detailed documentation."
+msgstr "عايز تعرف إزاي تبني موقعك بنكسا تعالى من هنا "
+
+#: build/admin/index.js:1
+msgid "Leave a Review"
+msgstr "إدعمنا بتقييمك"
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Left"
+msgstr "يسار"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Left Bottom"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Left Center"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Left Top"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Letter Spacing"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Line"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Line Height"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Line Through"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Link"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Linkedin"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Lithuanian"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Live Demo"
+msgstr "نسخة تجريبية"
+
+#: build/blocks/google-map/index.js:1
+msgid "longitude"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Loop"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Macedonian"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Malay"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Malayalam"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Map"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Map Style"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Map Type"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Map Type Control"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Marathi"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/tabs/index.js:1
+#: build/modules/index.js:1
+msgid "Margin"
+msgstr "هوامش خارجية"
+
+#: build/blocks/google-map/index.js:1
+msgid "Marker Info"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Mask"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Max Width"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Middle"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Min Height"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Mobile"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Module status updated successfully."
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Modules"
+msgstr "خواص"
+
+#: build/blocks/google-map/index.js:1
+msgid "Mongolian"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Morph X"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Morph Y"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Navigation"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Need help? Our support team is here to help you."
+msgstr "محتاج مساعدة؟ فريق الدعم بتاعنا هنا عشان يساعدك."
+
+#: build/blocks/google-map/index.js:1
+msgid "Nepali"
+msgstr ""
+
+#. Plugin Name of the plugin
+#: nexa-blocks.php inc/admin/classes/dashboard.php:97
+#: inc/admin/classes/dashboard.php:98 inc/classes/register-category.php:54
+#: build/admin/index.js:1
+msgid "Nexa Blocks"
+msgstr "كتل نكسا"
+
+#: build/admin/index.js:1
+msgid "Nexa Blocks Docs"
+msgstr "إرشادات كتل نكسا"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Nexa Blocks Icons"
+msgstr "أيقونات كتل نكسا"
+
+#: build/admin/index.js:1
+msgid "Nexa Blocks Introduction"
+msgstr "مقدمة لكتل نكسا"
+
+#: build/global/index.js:1
+msgid "Nexa Copy Styles"
+msgstr "نسخ تنسيق نكسا"
+
+#: build/admin/index.js:1
+msgid "Nexa Modules"
+msgstr "إضافات نكسا"
+
+#: build/global/index.js:1
+msgid "Nexa Paste Styles"
+msgstr "لصق تنسيق نكسا"
+
+#. Author of the plugin
+#: nexa-blocks.php
+msgid "NexaBlocks"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid ""
+"NexaBlocks is Gutenberg Blocks Library extends the Gutenberg functionality "
+"with several unique and feature-rich blocks that help build websites faster. "
+"You don’t need to have any coding knowledge to build eye-catching websites. "
+"Just drag and drop the blocks and customize them as per your needs."
+msgstr ""
+"كتل نكسا هي مكتبة كتل جوتنبرغ بتوسع من وظائف جوتنبرغ بعدة كتل فريدة وغنية "
+"بالمميزات اللي بتساعدك تبني مواقع أسرع. مش محتاج تكون عندك أي خبرة في "
+"البرمجة علشان تبني مواقع تجذب الانتباه. كل اللي عليك إنك تسحب الكتل وتفلتها "
+"وتخصصها حسب احتياجاتك."
+
+#: build/admin/index.js:1
+msgid "No blocks found."
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "No pages found."
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "No patterns found."
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "No Repeat"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "No templates found."
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "No Wrap"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "no-repeat"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "None"
+msgstr ""
+
+#: build/blocks/image-accordion/index.js:1 build/blocks/slider/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Normal"
+msgstr "عادي"
+
+#: build/blocks/accordion/index.js:1
+msgid "Normal Accordion"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Norwegian"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Number of Columns"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Number of Rows"
+msgstr ""
+
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Official"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Open in new tab"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Outset"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Overflow"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Overlay Color"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Overline"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "P"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+#: build/modules/index.js:1
+msgid "Padding"
+msgstr "هوامش داخلية"
+
+#: build/blocks/slider/index.js:1
+msgid "Page Curl"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Pages"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Pagination"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Pagination Type"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Paste Map Style"
+msgstr ""
+
+#: build/global/index.js:1
+msgid "Paste the selected block(s)."
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Patterns"
+msgstr "أجزاء"
+
+#: build/blocks/slider/index.js:1
+msgid "Peel X"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Peel Y"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Pinterest"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Pixelize"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Please add your Google Map API Key to load your location properly."
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Pocket"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Polish"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Polygons Fall"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Polygons Morph"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Polygons Wind"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Portuguese"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1 build/blocks/slider/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Position"
+msgstr ""
+
+#: build/blocks/accordion/index.js:1 build/blocks/advanced-heading/index.js:1
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Preset One"
+msgstr "نمط 1"
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+msgid "Preset Three (Pro)"
+msgstr "نمط 3 (مميز)"
+
+#: build/blocks/accordion/index.js:1 build/blocks/advanced-heading/index.js:1
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Preset Two"
+msgstr "نمط 2"
+
+#: build/blocks/accordion/index.js:1 build/blocks/advanced-heading/index.js:1
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Presets"
+msgstr "أنماط جاهزة"
+
+#: build/admin/index.js:1 build/templates/index.js:1
+msgid "Pro"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Progress Bar"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Properties"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Punjabi"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Random"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Read More"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Reddit"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Relative"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Repeat"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "repeat"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Repeat X"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Repeat Y"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "repeat-x"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "repeat-y"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Reset"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Responsive"
+msgstr "متجاوب"
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Ridge"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Right"
+msgstr "يمين"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Right Bottom"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Right Center"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Right Top"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Ripple"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Roadmap"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Romanian"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Row"
+msgstr ""
+
+#: build/blocks/container/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1
+msgid "Row Gap"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Row Reverse"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Russian"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Satellite"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Save"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Scale Control"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Scroll"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Search Blocks"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Search Icons"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Search.."
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Select a container container layout to start with."
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/slide-item/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Select Icon"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Select Language"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Select Location"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Select Media"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Select Overflow"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Select Position"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Select Tag"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1
+msgid "Select Title Tag"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Serbian"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Set Z-Index"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Settings"
+msgstr "الإعدادات"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Shape"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Show Box Icon"
+msgstr "أظهر ايقونة الصندوق"
+
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slider/index.js:1
+msgid "Show Button"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1 build/blocks/slide-item/index.js:1
+msgid "Show Button Icon"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Show Call to Action"
+msgstr "أظهر الزر"
+
+#: build/blocks/advanced-heading/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/slider/index.js:1
+msgid "Show Description"
+msgstr "أظهر الوصف"
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Show Heading"
+msgstr "اظهر السطر"
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+msgid "Show Icon"
+msgstr ""
+
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Show Icons Label"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Show Navigation"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Show Pagination"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Show Sub Heading"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Show Subtitle"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Show Tab Description"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Show Tab Icon"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slider/index.js:1
+msgid "Show Title"
+msgstr "اظهر العنوان الحالي.."
+
+#: build/blocks/slider/index.js:1
+msgid "Shutters"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Sinhalese"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1 build/global/index.js:1
+#: build/modules/index.js:1
+msgid "Size"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Sketch"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Skype"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Slices"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Slider"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Slider Image"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Slovak"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Slovenian"
+msgstr ""
+
+#: build/blocks/social-icons/index.js:1 build/blocks/social-share/index.js:1
+msgid "Social Icons"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Solid"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Space Around"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Space Between"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Space Evenly"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/container/index.js:1
+#: build/blocks/tabs/index.js:1 build/modules/index.js:1
+msgid "Spacing"
+msgstr "هوامش"
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Span"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Spanish"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Spread"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Squares"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Sticky"
+msgstr ""
+
+#: build/blocks/container/index.js:1 build/blocks/slider/index.js:1
+msgid "Stretch"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Style"
+msgstr "تنسيق"
+
+#: build/global/index.js:1
+msgid "Styles"
+msgstr "تنسيقات"
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Sub Heading"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Sub heading.."
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "sub heading.."
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1 build/blocks/slider/index.js:1
+msgid "Sub Title"
+msgstr "عنوان فرعي"
+
+#: build/blocks/slide-item/index.js:1
+msgid "Subtitle"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "Subtitle Tag"
+msgstr ""
+
+#: build/blocks/slide-item/index.js:1
+msgid "subtitle.."
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Swahili"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Swedish"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Sync Data"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Tab 1"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Tab 2"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Tab 3"
+msgstr ""
+
+#: build/blocks/tabs/index.js:1
+msgid "Tab Title"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Tablet"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Tags (Optional)"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Tamil"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Telegram"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Telugu"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Template Library"
+msgstr "مكتبة القوالب."
+
+#: build/templates/index.js:1
+msgid "Templates"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Templates Library"
+msgstr "مكتبة القوالب"
+
+#: build/blocks/google-map/index.js:1
+msgid "Terrain"
+msgstr ""
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Text"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Text Decoration"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Text Transform"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Thai"
+msgstr ""
+
+#. Description of the plugin
+#: nexa-blocks.php
+msgid ""
+"The Blocks Library extends the Gutenberg functionality with several unique "
+"and feature-rich blocks that help build websites faster."
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "The whole box will be wrapped with the link"
+msgstr "اشتمال الربع للرابط"
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Theme Colors"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid ""
+"This API key is essential to use the Nexa <b>Google Map</b> block. <a "
+"href=\"https://console.cloud.google.com/google/maps-apis\" target=\"_blank\" "
+"rel=\"nofollow noopener\">Create a free Google Map API key</a> to use in "
+"your site."
+msgstr ""
+"هذا الرمز مهم تفعيله لعمل <b>خرائط جوجل</b>  <a href=\"https://console.cloud."
+"google.com/google/maps-apis\" target=\"_blank\" rel=\"nofollow noopener\">"
+"أنشىء رمزك الخاص بخرائط جوجل</a> للاستخدام في هذا الموقع."
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-share/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Title"
+msgstr "عنوان"
+
+#: build/blocks/slide-item/index.js:1
+msgid "Title Tag"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1 build/blocks/slide-item/index.js:1
+msgid "title.."
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Top"
+msgstr "أعلى"
+
+#: build/blocks/slider/index.js:1
+msgid "Top Center"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Top Left"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Top Right"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Trello"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Triangle"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Tumblr"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Turkish"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Twitter"
+msgstr ""
+
+#: build/blocks/accordion-item/index.js:1 build/blocks/accordion/index.js:1
+#: build/blocks/advanced-heading/index.js:1 build/blocks/button/index.js:1
+#: build/blocks/google-map/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/image-accordion/index.js:1 build/blocks/slide-item/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+msgid "Typography"
+msgstr "الخطوط"
+
+#: build/blocks/google-map/index.js:1
+msgid "UI Controls"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Ukrainian"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Underline"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Underline Oveline"
+msgstr ""
+
+#: build/templates/index.js:1
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+#: build/blocks/image-accordion-item/index.js:1
+#: build/blocks/slide-item/index.js:1
+msgid "Upload"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Upload Image"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/icon-box/index.js:1
+#: build/blocks/tabs/index.js:1
+msgid "Upload SVG"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+msgid "Upoload SVG"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Urdu"
+msgstr ""
+
+#: build/blocks/icon-box/index.js:1
+msgid "Use Link as Global"
+msgstr "استخدمه كرابط"
+
+#: build/blocks/google-map/index.js:1
+msgid "Uzbek"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "v"
+msgstr ""
+
+#: build/global/index.js:1 build/modules/index.js:1
+msgid "Vertical"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Viber"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Vietnamese"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "View Demos"
+msgstr "أستكشاف النمازج"
+
+#: build/modules/index.js:1
+msgid "Visible"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "VK"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Wave X"
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Weibo"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Welcome"
+msgstr "أهلا وسهلا"
+
+#: build/admin/index.js:1
+msgid "Welcome to Nexa Blocks"
+msgstr "أهلا بك مع كتل نكسا "
+
+#: build/blocks/social-share/index.js:1
+msgid "Whatsapp"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/container/index.js:1
+#: build/blocks/slider/index.js:1 build/blocks/social-icons/index.js:1
+#: build/blocks/social-share/index.js:1 build/blocks/tabs/index.js:1
+msgid "Width"
+msgstr ""
+
+#: build/blocks/button/index.js:1 build/blocks/tabs/index.js:1
+msgid "Width Type"
+msgstr ""
+
+#: build/blocks/slider/index.js:1
+msgid "Wind"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Wrap"
+msgstr ""
+
+#: build/blocks/container/index.js:1
+msgid "Wrap Reverse"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Wrapper ID"
+msgstr ""
+
+#: build/admin/index.js:1
+msgid "Write a Review"
+msgstr "أكتب تقييمك هنا"
+
+#: build/blocks/advanced-heading/index.js:1
+msgid "Write description.."
+msgstr ""
+
+#: build/blocks/social-share/index.js:1
+msgid "Xing"
+msgstr ""
+
+#: build/modules/index.js:1
+msgid "Z-Index"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Zoom Control"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Zoom Level"
+msgstr ""
+
+#: build/blocks/google-map/index.js:1
+msgid "Zulu"
+msgstr ""

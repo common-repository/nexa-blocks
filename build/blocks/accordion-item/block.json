@@ -1,0 +1,29 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "nexa/accordion-item",
+  "version": "1.0.0",
+  "title": "Accordion Item",
+  "category": "nexa-blocks",
+  "parent": [
+    "nexa/accordion"
+  ],
+  "description": "Acts as a single item in an accordion block.",
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "className": false,
+    "customClassName": false
+  },
+  "usesContext": [
+    "nxa/preset"
+  ],
+  "example": {},
+  "textdomain": "nexa-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

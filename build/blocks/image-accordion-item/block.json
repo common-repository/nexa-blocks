@@ -1,0 +1,31 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "nexa/image-accordion-item",
+  "version": "1.0.0",
+  "title": "Image Accordion Item",
+  "category": "nexa-blocks",
+  "description": "Acts as a single item in an image accordion block.",
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "className": false,
+    "customClassName": false
+  },
+  "parent": [
+    "nexa/image-accordion"
+  ],
+  "example": {},
+  "usesContext": [
+    "nexa/showTitle",
+    "nexa/showBtn",
+    "nexa/titleTag"
+  ],
+  "textdomain": "nexa-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "nexa/slider",
+  "version": "1.0.0",
+  "title": "Slider",
+  "category": "nexa-blocks",
+  "description": "Show content in sliding mode.",
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "className": false,
+    "customClassName": false
+  },
+  "providesContext": {
+    "nexa/sliderStatus": "sliderStatus",
+    "nexa/showSubTitle": "showSubTitle",
+    "nexa/showTitle": "showTitle",
+    "nexa/showDescription": "showDescription",
+    "nexa/showBtn": "showBtn",
+    "nexa/contentPosition": "contentPosition"
+  },
+  "example": {},
+  "textdomain": "nexa-blocks",
+  "editorScript": [
+    "file:./index.js",
+    "nx-swiper"
+  ],
+  "editorStyle": [
+    "file:./index.css",
+    "nx-swiper"
+  ],
+  "style": [
+    "file:./style-index.css",
+    "nx-swiper"
+  ],
+  "viewScript": [
+    "file:./frontend.js",
+    "nx-swiper"
+  ]
+}

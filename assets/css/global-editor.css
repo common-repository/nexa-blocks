@@ -1,0 +1,18 @@
+/* CSS Codes load only editor */
+.nx-block.nx-hide-on-desk {
+    opacity: 0.3 !important;
+}
+
+/* Tablet */
+@media (max-width: 1024px) and (min-width: 768px) {
+    .nx-block.nx-hide-on-tab {
+        opacity: 0.3 !important;
+    }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    .nx-block.nx-hide-on-mob {
+        opacity: 0.3 !important;
+    }
+}

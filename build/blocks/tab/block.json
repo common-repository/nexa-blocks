@@ -1,0 +1,29 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "nexa/tab",
+  "version": "1.0.0",
+  "title": "Tab",
+  "category": "nexa-blocks",
+  "parent": [
+    "nexa/tabs"
+  ],
+  "description": "Single tab for Tabs block",
+  "supports": {
+    "html": false,
+    "align": [
+      "wide",
+      "full"
+    ],
+    "className": false,
+    "customClassName": false
+  },
+  "example": {},
+  "usesContext": [
+    "nexa/animation"
+  ],
+  "textdomain": "nexa-blocks",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}

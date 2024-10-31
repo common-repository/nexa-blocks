@@ -1,0 +1,18 @@
+/* CSS Codes load only frontend */
+.nx-block.nx-hide-on-desk {
+    display: none !important;
+}
+
+/* Tablet */
+@media (max-width: 1024px) and (min-width: 768px) {
+    .nx-block.nx-hide-on-tab {
+        display: none !important;
+    }
+}
+
+/* Mobile */
+@media (max-width: 767px) {
+    .nx-block.nx-hide-on-mob {
+        display: none !important;
+    }
+}
